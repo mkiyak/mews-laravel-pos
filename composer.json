@@ -1,15 +1,15 @@
 {
 	"name": "mews/laravel-pos",
 	"type": "package",
-	"description": "Laravel 5 Pos Package",
-	"keywords": ["laravel5 pos", "laravel5 sanal pos"],
-	"homepage": "https://github.com/mewebstudio/laravel-pos",
+	"description": "Laravel 10 Pos Package",
+	"keywords": ["laravel10 pos", "laravel10 sanal pos"],
+	"homepage": "https://github.com/mkiyak/mews-laravel-pos",
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Muharrem ERİN",
-			"email": "me@mewebstudio.com",
-			"homepage": "https://github.com/mewebstudio",
+			"name": "Mehmet",
+			"email": "mkiyak511@gmail.com",
+			"homepage": "https://github.com/mkiyak",
 			"role": "Developer"
 		}
 	],
