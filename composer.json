@@ -1,5 +1,5 @@
 {
-	"name": "mews/laravel-pos",
+	"name": "mkiyak/mews-laravel-pos",
 	"type": "package",
 	"description": "Laravel 10 Pos Package",
 	"keywords": ["laravel10 pos", "laravel10 sanal pos"],
